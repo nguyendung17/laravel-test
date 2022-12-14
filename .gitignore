@@ -1,0 +1,8 @@
+access.log
+error.log
+verdor/
+.env
+vendor/*.*
+composer.lock
+vendor
+storage/logs/laravel.log
